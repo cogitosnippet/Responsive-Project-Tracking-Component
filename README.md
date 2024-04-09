@@ -49,7 +49,7 @@ Users should be able to:
 
 ### What I learned
 
-Created Background shape for both mobile view and desktop view using JavaScript and added all styles using JavaScript itself.
+Created Background shape for both mobile view and desktop view using JavaScript and added all styles using JavaScript itself..
 
 To see how you can add code snippets, see below:
 
